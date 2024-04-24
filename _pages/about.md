@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
+subtitle: <a href='iitp.ac.in'>Associate Professor, Department of Computer Science and Engineering, IIT Patna, India-801103</a>.
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Department of Computer Science and Engineering </p>
+    <p>Indian Institute of Technology (IIT) Patna </p>
+    <p>Patna 801106, India </p>
+    <p>Webpage: http://www.iitp.ac.in/~asif/ </p>
+    <p>Google Scholar: hsifttps://scholar.google.co.in/citations?user=IAL_F04AAAAJ </p>
+    <p>DBLP: https://dblp.uni-trier.de/pers/hd/e/Ekbal:A</p>
+    <p>Semantic Scholar: https://www.semanticscholar.org/author/Asif-Ekbal/1734904</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+      Asif Ekbal is currently an Associate Professor in the Department of Computer Science  and Engineering, IIT Patna. Prior to joining as an Assistant Professor in the same department in January 2011, he spent approximately 2 years as a Postdoctoral Research Fellow in Heidelberg University, Germany and University of Trento, Italy. He has been pursuing research in Natural Language Processing (NLP), Information Extraction, Text Mining and Machine Learning (ML) for the last 19 years, and has made significant contributions in these areas. He has authored around 350 papers in top-tier conferences like AAAI, IJCAI, ACL, EMNLP, COLING, NAACL, and journals like Computational Linguistics, PLOS One, ACM Transactions, IEEE Transaction on Affective Computing etc. Asif has been involved in several sponsored research projects, funded by the different private agencies, such as Elsevier, Accenture, ezDI, LG, Skymap, Samsung, Flipkart; and Govt. agencies such as MeiTY, Govt. of India, MHRD, Govt. of India, and SERB, Govt. of India etc. 
+  
+          He is currently serving as an Area Chair, AAAI 2024 and EMNLP 2023. He has recently served as PC Chair, ICONIP-2022; has served as an Area Chair of NLP, AAAI 2024; Information Extraction, EMNLP; Language Resources,  EACL 2021; NAACL-19’s area chair on QA;  as the Senior PC member of IJACI-2019, 2020; AAAI 2020, 2021. He regularly serves in the PC and/review committee of conferences like ACL, EMNLP, CoNLL, IJCNLP, COLING, NAACL, AAAI, IJCAI etc. He is serving as an Associate Editor of ACM Transaction on Asian and Low-resource Language Information Processing (ACM TALLIP), ACM; Editorial Board member of Computer Speech and Language, Elsevier; Editorial Board member, Plosone; Action Editor, Neural Networks, Elsevier; Editorial Board Member, Natural Language Processing, Oxford; Associate Editor, Sadhana, Springer; Springer Nature CS, Springer. He has served as an Editorial Board Member, Machine Translation, Springer.   
+          
+         He is an awardee of the "Best Innovative Project Award from the Indian National Academy of Engineering", Govt. of India, "JSPS Invitation Fellowship" from Govt of Japan and "Visvesvaraya Young Faculty Research Fellowship Award" of the Govt. of India.    
+         
+         Google Scholar Citation which is the benchmark for Computer Science and Engineering shows 10456 career citations to Dr. Asif’s papers. His h-index: 50 and i-10 index: 241.
