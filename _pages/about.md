@@ -1,3 +1,4 @@
+
 ---
 layout: about
 title: about
@@ -7,12 +8,12 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
-  <p>Professor,</p>
-  <p>School of AI and Data Science</p>
-  <p>IIT Jodhpur</p>
-  <p>Jodhpur- 342030</p>
-  <p>Rajasthan, India</p>
+  more_info: >
+  <p>Professor, </p>
+  <p>School of AI and Data Science </p>
+  <p>IIT Jodhpur </p>
+  <p>Jodhpur- 342030 </p>
+  <p>Rajasthan, India </p>
   
   <p>(on lien from IIT Patna)</p>
 
