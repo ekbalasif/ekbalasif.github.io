@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  more_info: 
   <p>Professor,</p>
   <p>School of AI and Data Science</p>
   <p>IIT Jodhpur</p>
