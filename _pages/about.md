@@ -29,5 +29,5 @@ He is an awardee of "Best Innovative Project Award'' from the Indian National Ac
 Google Scholar, which is the benchmark of Computer Science research, shows his career citations of {{ site.data.scholar.citations }}; h-index is: {{ site.data.scholar.h_index }} and i-10 index: {{ site.data.scholar.i10_index }}. 
 
 For detailed publications, please visit:
-DBLP: https://dblp.org/pers/hd/e/Ekbal:Asif 
-Google Scholar: https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en
+DBLP: [https://dblp.org/pers/hd/e/Ekbal:Asif](https://dblp.org/pers/hd/e/Ekbal:Asif)  
+Google Scholar: [https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en](https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en)
