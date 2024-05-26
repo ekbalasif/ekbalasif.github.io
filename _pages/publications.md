@@ -131,6 +131,5 @@ nav_order: 2
 114.  Asif Ekbal, Sriparna Saha (2011).  A multiobjective simulated annealing approach for classifier ensemble: Named entity recognition in Indian languages as case studies. Expert System with Application, Elsevier, vol. 38(12). pp. 14760-14772. 
 115.  Asif Ekbal, Francesca Bonin, Sriparna Saha, Egon Stemle, Eduard Barbu, Fabio Cavulli, Christian Girardi, Massimo Poesio (2011). Rapid Adaptation of NE Resolvers for Humanities Domains using Active Annotation. Journal for Language Technology and Computational Linguistics. vol. 26(2). pp. 39-51. 
 116.  Asif Ekbal, Sivaji Bandyopadhyay (2008). A web-based Bengali news corpus for named entity recognition. Language Resources and Evaluation 42(2): 173-182 (2008)
-[{% bibliography %}](url)
 
 </div>
