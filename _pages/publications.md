@@ -9,35 +9,35 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
  
-Total Publications:  300(approx)
+Total Publications:  300(approx)  
  
-GoogleScholar: https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en
+Google Scholar: https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en  
 
-DBLP: https://dblp.uni-trier.de/pers/hd/e/Ekbal:Asif
+DBLP: https://dblp.uni-trier.de/pers/hd/e/Ekbal:Asif  
 
-Semantic Scholar: https://www.semanticscholar.org/author/Asif-Ekbal/1734904
+Semantic Scholar: https://www.semanticscholar.org/author/Asif-Ekbal/1734904  
 
-  **In Journals (Selected)**  
+  **In Journals (Selected)**   
 
-1.  P. Priya, M. Firdaus, A. Ekbal (2024). Computational politeness in natural language processing: A survey. ACM Computing Surveys,  https://doi.org/10.1145/3654660 (h5 index- 131; IF-16.6).  
+1.  P. Priya, M. Firdaus, A. Ekbal (2024). Computational politeness in natural language processing: A survey. ACM Computing Surveys,  https://doi.org/10.1145/3654660 (h5 index- 131; IF-16.6).   
 
-2.  A. Zafar, S. Sahoo, H. Bhardawaj, A. Das and A. Ekbal (2024). KI-MAG: A Knowledge-Infused Abstractive Question Answering System in Medical Domain, In Neurocomputing, Elsevier (from Wipro funding) (h5 index- 135; IF-6)
+2.  A. Zafar, S. Sahoo, H. Bhardawaj, A. Das and A. Ekbal (2024). KI-MAG: A Knowledge-Infused Abstractive Question Answering System in Medical Domain, In Neurocomputing, Elsevier (from Wipro funding) (h5 index- 135; IF-6)  
 
-3.  Aizan Zafar, Deeksha Varshney, Sovan Kumar Sahoo, Amitava Das, Asif Ekbal (2024). Are my answers medically accurate? Exploiting medical knowledge graphs for medical question answering. In Applied Intelligence 54(2): 2172-2187 (2024), Springer (from Wipro funding) (h5 index- 78; IF-5.3)
+3.  Aizan Zafar, Deeksha Varshney, Sovan Kumar Sahoo, Amitava Das, Asif Ekbal (2024). Are my answers medically accurate? Exploiting medical knowledge graphs for medical question answering. In Applied Intelligence 54(2): 2172-2187 (2024), Springer (from Wipro funding) (h5 index- 78; IF-5.3)  
 
-4.  Kshitij Mishra, Mauajama Firdaus, Asif Ekbal (2024). Please Donate to Save a Life: Inducing Politeness to Handle Resistance in Persuasive Dialogue Agents. In IEEE ACM Trans. Audio Speech Lang. Process. 32: 2202-2212 (2024) (h5 index- 69; IF-5.4)
+4.  Kshitij Mishra, Mauajama Firdaus, Asif Ekbal (2024). Please Donate to Save a Life: Inducing Politeness to Handle Resistance in Persuasive Dialogue Agents. In IEEE ACM Trans. Audio Speech Lang. Process. 32: 2202-2212 (2024) (h5 index- 69; IF-5.4)  
 
-5.  R. Joshi and A. Ekbal (2024). Saliency Guided Debiasing: Detecting and mitigating biases in LMs using feature attribution. In Neurocomputing, Elsevier (IF-6; h5 index: 135).
+5.  R. Joshi and A. Ekbal (2024). Saliency Guided Debiasing: Detecting and mitigating biases in LMs using feature attribution. In Neurocomputing, Elsevier (IF-6; h5 index: 135).  
 
-6.  G Kumari, D Bandyopadhyay, A Ekbal, S Pal, A Chatterjee, BN Vinutha (2024). Let’s All Laugh Together: A Novel Multitask Framework for Humor Detection in Internet Memes. In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5)
+6.  G Kumari, D Bandyopadhyay, A Ekbal, S Pal, A Chatterjee, BN Vinutha (2024). Let’s All Laugh Together: A Novel Multitask Framework for Humor Detection in Internet Memes. In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5)  
 
-7.  A. Pukhan, S. Pal and A. Ekbal (2024). Hybrid Quantum-Classical Neural Network for Multimodal Multitask Sarcasm, Emotion, and Sentiment Analysis. In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5).
+7.  A. Pukhan, S. Pal and A. Ekbal (2024). Hybrid Quantum-Classical Neural Network for Multimodal Multitask Sarcasm, Emotion, and Sentiment Analysis. In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5).  
 
-8.  P. Priya, M. Firdaus, A. Ekbal (2024). Two in One: A multi-task framework for politeness turn identification and phrase extraction in goal-oriented conversations. Computer Speech and Language, Elsevier (h5 index- 41; IF-4.3) 
+8.  P. Priya, M. Firdaus, A. Ekbal (2024). Two in One: A multi-task framework for politeness turn identification and phrase extraction in goal-oriented conversations. Computer Speech and Language, Elsevier (h5 index- 41; IF-4.3)   
 
-9.  D. Varshney and A. Ekbal (2024). Yes, I am afraid of the sharks and also wild lions!: A multitask framework for enhancing dialogue generation via knowledge and emotion grounding. Computer Speech and Language, Elsevier (h5 index- 41; IF-4.3) 
+9.  D. Varshney and A. Ekbal (2024). Yes, I am afraid of the sharks and also wild lions!: A multitask framework for enhancing dialogue generation via knowledge and emotion grounding. Computer Speech and Language, Elsevier (h5 index- 41; IF-4.3)   
 
-10.  Mamta and A. Ekbal (2024). Atmosphere kamaal ka tha (Was Wonderful): A Multilingual Joint Learning Framework for Aspect Category Detection and Sentiment Classification.  In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5)
+10.  Mamta and A. Ekbal (2024). Atmosphere kamaal ka tha (Was Wonderful): A Multilingual Joint Learning Framework for Aspect Category Detection and Sentiment Classification.  In IEEE Transaction on Computational Social Systems, IEEE  (from Wipro funding) (h5 index- 57; IF-5)  
 
 11.  S Bala Das, D Panda, T Kumar Mishra, B Kr. Patra, A Ekbal (2024). Multilingual Neural Machine Translation for Indic to Indic Languages. In ACM Transaction on Asian and Low-resource Language Information Processing (ACM TALLIP)
 
