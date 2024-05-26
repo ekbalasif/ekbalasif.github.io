@@ -7,8 +7,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<div class="publications">
- 
+
 Total Publications:  300(approx)  
  
 Google Scholar: https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en  
@@ -251,4 +250,3 @@ Semantic Scholar: https://www.semanticscholar.org/author/Asif-Ekbal/1734904
 
 116.  Asif Ekbal, Sivaji Bandyopadhyay (2008). A web-based Bengali news corpus for named entity recognition. Language Resources and Evaluation 42(2): 173-182 (2008)
 
-</div>
