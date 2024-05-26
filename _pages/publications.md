@@ -8,9 +8,13 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 <div class="publications">
+ 
 Total Publications:  300(approx)
+ 
 GoogleScholar: https://scholar.google.co.in/citations?user=IAL_F04AAAAJ&hl=en
+
 DBLP: https://dblp.uni-trier.de/pers/hd/e/Ekbal:Asif
+
 Semantic Scholar: https://www.semanticscholar.org/author/Asif-Ekbal/1734904
 
   **In Journals (Selected)**  
