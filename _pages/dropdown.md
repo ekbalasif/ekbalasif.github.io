@@ -11,7 +11,7 @@ children:
   - title: Conferences
     permalink: /Conferences/
   - title: divider
-  - title: Books, Book Chapters and Edited Books
+  - title: Books and Book Chapters
     permalink: /Books, Book Chapters and Edited Books/
   - title: divider
   - title: Patents
