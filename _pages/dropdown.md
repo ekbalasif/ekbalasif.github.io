@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: fale
+nav: false
 nav_order: 8
 dropdown: true
 children:
