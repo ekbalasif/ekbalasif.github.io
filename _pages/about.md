@@ -26,7 +26,6 @@ He has been serving as a PC Chair, Area Chair, Senior PC member, PC member, revi
 
 He is an awardee of "Best Innovative Project Award'' from the Indian National Academy of Engineering'', Govt. of India, "JSPS Invitation Fellowship" from Govt of Japan and "Young Faculty Research Fellowship Award" of the Govt. of India.  He is listed in the top 2% scientists, published by Stanford University (2021, 2022, 2023), and is in the list of top computer scientists, published by Research.com (2022, 2023, 2024).  
 
-Google Scholar, which is the benchmark of Computer Science research, shows his career citations of {{ site.data.scholar.citations }}; h-index is: {{ site.data.scholar.h_index }} and i-10 index: {{ site.data.scholar.i10_index }}. 
 
 For detailed publications, please visit:
 DBLP: [https://dblp.org/pers/hd/e/Ekbal:Asif](https://dblp.org/pers/hd/e/Ekbal:Asif)  
