@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Books, Book Chapters and Edited Books/
 title: Books, Book Chapters and Edited Books
 nav: false
 nav_order: 2
