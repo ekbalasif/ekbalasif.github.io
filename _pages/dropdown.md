@@ -1,16 +1,19 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: Publications
+nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: Journals
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: Conferences
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: Books, Book Chapters and Edited Books
     permalink: /blog/
+  - title: divider
+  - title: Patents
+    permalink: /projects/
 ---
