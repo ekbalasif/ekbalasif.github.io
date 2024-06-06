@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Patents/
 title: Patents
 nav: false
 nav_order: 2
