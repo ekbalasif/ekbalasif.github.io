@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /publications/
+permalink: /Conferences/
 title: Conferences
 nav: false
 nav_order: 2
