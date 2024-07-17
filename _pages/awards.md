@@ -11,8 +11,7 @@ horizontal: false
 
 * Listed in top-2% scientists published by Stanford University (2021, 2022, 2023) 
 * Ranked in top Computer Science researcher list, published by Research.com (2022, 2023, 2024)
-* Outstanding paper award from IEEE CIS for Year 2023 
-* Featured in NLP CS Faculty Ranking (https://lintool.github.io/bigcows/csrankings-nlp.html)  
+* Outstanding paper award from IEEE CIS for Year 2023  
 * Unrestricted Faculty Gift, Accenture R&D 
 * Unrestricted Faculty Gift, Flipkart 
 * Japanese Society for the Promotion of Science (JSPS) Invitation Fellowship, Japan, 2017 Japan.  
