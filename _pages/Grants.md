@@ -1,7 +1,7 @@
 ---
 layout: page
 title: grants
-permalink: /grants/
+permalink: /Grants/
 description: 
 nav: true
 nav_order: 3
