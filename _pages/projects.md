@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
-description: A collection of projects.
+title: 
+permalink: /grants/
+description: 
 nav: true
 nav_order: 3
 display_categories: [work]
