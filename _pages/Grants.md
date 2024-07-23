@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Grants
 permalink: /Grants/
 description: 
 nav: true
