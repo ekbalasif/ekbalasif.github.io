@@ -8,12 +8,14 @@ display_categories: [work]
 horizontal: false
 ---
 
-**Current Semester**
+**Recently Taught Courses**
 1. Artificial Intelligence (CS366)
 2. Artificial Intelligence Lab (CS367)
 3. Natural Language Processing (CS563)
+4. Advanced Artificial Intelligence
+5. Deep Learning for NLP
 
-**Others**
+**Previously Taught Courses**
 1. Advanced Machine Learning
 2. Foundation of Theoretical Computer Science
 3. Formal Language & Automata Theory
