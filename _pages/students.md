@@ -93,60 +93,60 @@ horizontal: false
 **BTech Students**
 1. Mr. Sachin Girdhar - 2012-13
 2. Mr. Kasha Ravi - 2012-13
-C.V.N.K. Chaitanya - 2012-13
-Mr. Dhirendra Singh - 2012-13
-Mr. Gaurav Choudhary - 2012-13
-Mr. Vishwaraj Anand - 2013-14
-Mr. Arundeep Kamboj - 2013-14
-Mr. Pradhuman Singh - 2013-14
-Mr. Gaurav Parihar - 2013-14
-Mr. Abhishek Kumar - 2013-14
-A. Siddharth - 2014-15
-Ch. Krishna Prasad - 2014-15
-Chaitanya Kansal - 2014-15
-Gurveer Singh Pahuja - 2014-15
-Nishant Mahajan - 2014-15
-Raja Selvarajan - 2014-15
-Manish Garg - 2015-16
-Kadula Srikanth Reddy - 2015-16
-Vamsi Krishna - 2015-16
-Achintya Bhatnagar - 2015-16
-Shubham Kumar - 2016-17
-Ayush Kumar - 2016-17
-Hukami Meena - 2016-17
-Ranat Ghosh - 2016-17
-Anwesh Sinha Roy - 2016-17
-Ankit Lamba - 2017-18
-Abhishek Kumar - 2018-19
-Alan Aipe - 2018-19
-Raghu - 2018-19
-Uday Bora - 2018-19
-Vishal Solanki - 2018-19
-Vignesh Edithal - 2018-19
-Pralay Ramteke - 2018-19
-Hitesh Golcha - 2019-20
-Bora Raghu Ram Reddy - 2019-20
-Tarun Garg - 2019-20
-Raghav Jindal - 2019-20
-Shinku - 2019-20
-Abhishek Kumar - 2019-20
-Ayush Sharma - 2019-20
-Amit Priynkar - 2020-21
-Ankit Kumar - 2020-21
-Boppana Dhanvanth - 2020-21
-Shreyash Vilas Gedkar - 2020-21
-Rizwan Khan - 2020-21
-Vrushank V. Varma - 2020-21
-Umang Jain - 2020-21
-Vinnakota Sujeeth - 2020-21
-Suman Shekhar - 2020-21
-Naveen T - 2020-21
-Dhanush S.R. - 2020-21
-Mukuntha N.S. - 2020-21
-Rajeev Kumar - 2020-21
-Dinesh Gaur - 2020-21
-Biswas Tameesh - 2020-21
-M. Sahruday Reddy - 2020-21
+3. C.V.N.K. Chaitanya - 2012-13
+4. Mr. Dhirendra Singh - 2012-13
+5. Mr. Gaurav Choudhary - 2012-13
+6. Mr. Vishwaraj Anand - 2013-14
+7. Mr. Arundeep Kamboj - 2013-14
+8. Mr. Pradhuman Singh - 2013-14
+9. Mr. Gaurav Parihar - 2013-14
+10. Mr. Abhishek Kumar - 2013-14
+11. A. Siddharth - 2014-15
+12. Ch. Krishna Prasad - 2014-15
+13. Chaitanya Kansal - 2014-15
+14. Gurveer Singh Pahuja - 2014-15
+15. Nishant Mahajan - 2014-15
+16. Raja Selvarajan - 2014-15
+17. Manish Garg - 2015-16
+18. Kadula Srikanth Reddy - 2015-16
+19. Vamsi Krishna - 2015-16
+20. Achintya Bhatnagar - 2015-16
+21. Shubham Kumar - 2016-17
+22. Ayush Kumar - 2016-17
+23. Hukami Meena - 2016-17
+24. Ranat Ghosh - 2016-17
+25. Anwesh Sinha Roy - 2016-17
+26. Ankit Lamba - 2017-18
+27. Abhishek Kumar - 2018-19
+28. Alan Aipe - 2018-19
+29. Raghu - 2018-19
+30. Uday Bora - 2018-19
+31. Vishal Solanki - 2018-19
+32. Vignesh Edithal - 2018-19
+33. Pralay Ramteke - 2018-19
+34. Hitesh Golcha - 2019-20
+35. Bora Raghu Ram Reddy - 2019-20
+36. Tarun Garg - 2019-20
+37. Raghav Jindal - 2019-20
+38. Shinku - 2019-20
+39. Abhishek Kumar - 2019-20
+40. Ayush Sharma - 2019-20
+41. Amit Priynkar - 2020-21
+42. Ankit Kumar - 2020-21
+43. Boppana Dhanvanth - 2020-21
+44. Shreyash Vilas Gedkar - 2020-21
+45. Rizwan Khan - 2020-21
+46. Vrushank V. Varma - 2020-21
+47. Umang Jain - 2020-21
+48. Vinnakota Sujeeth - 2020-21
+49. Suman Shekhar - 2020-21
+50. Naveen T - 2020-21
+51. Dhanush S.R. - 2020-21
+52. Mukuntha N.S. - 2020-21
+53. Rajeev Kumar - 2020-21
+54. Dinesh Gaur - 2020-21
+55. Biswas Tameesh - 2020-21
+56. M. Sahruday Reddy - 2020-21
 
 **Current Project Staff**
 1. Dr. Saroj Kumar Jha - Research Associate -  IIT Patna
