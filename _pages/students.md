@@ -8,9 +8,21 @@ display_categories: [work]
 horizontal: false
 ---
 **Current PhD Students**
+1. Baban gain(PMRF)
+2. Dibyanayan Bandyopadhyay(PMRF)
+3. Sandip Kumar(PMRF)
+4.  Kshitij Misra (PMRF)
+5. Arpan Phukan(Institute Fellow of IIT Patna)
+6. Priyanshu Priya(DST-INSPIRE Fellow)
+7. Ratnesh Joshi (UGC NET)
+8. Arindam Chatterjee (Vivesvaraya Part-time)
+9. Soumyajit Nag Choudhury (Part-time)
+
 
 **PhD Thesis Guided (submitted/degree awarded)**
 
+1. Gitanjali Kumari
+2. Divya Kumari
 1. Mamta (2024). Advancing Sentiment Analysis: From Diverse Domains to Multilinguality and Robustness
 2. Prashant Kapil (2024). Unmasking Toxicity: Harnessing AI for Hate Speech Detection in Social Media Landscapes
 3. Komal Gupta (2024). Constructing and Leveraging Knowledge Graphs for NLP Tasks in Scientific Domain
@@ -77,3 +89,73 @@ horizontal: false
 36. K. Ravikumar (2014). Multi-Objective  Optimization for Clustering of Medical Publications
 37. Govind (2014). Multiobjective Optimization and Unsupervised Lexical Acquisition for Named Entity Recognition and Classification 
 38. Dhruv Gupta (2014). Carbon Dating for Information Retrieval
+
+**BTech Students**
+1. Mr. Sachin Girdhar - 2012-13
+2. Mr. Kasha Ravi - 2012-13
+C.V.N.K. Chaitanya - 2012-13
+Mr. Dhirendra Singh - 2012-13
+Mr. Gaurav Choudhary - 2012-13
+Mr. Vishwaraj Anand - 2013-14
+Mr. Arundeep Kamboj - 2013-14
+Mr. Pradhuman Singh - 2013-14
+Mr. Gaurav Parihar - 2013-14
+Mr. Abhishek Kumar - 2013-14
+A. Siddharth - 2014-15
+Ch. Krishna Prasad - 2014-15
+Chaitanya Kansal - 2014-15
+Gurveer Singh Pahuja - 2014-15
+Nishant Mahajan - 2014-15
+Raja Selvarajan - 2014-15
+Manish Garg - 2015-16
+Kadula Srikanth Reddy - 2015-16
+Vamsi Krishna - 2015-16
+Achintya Bhatnagar - 2015-16
+Shubham Kumar - 2016-17
+Ayush Kumar - 2016-17
+Hukami Meena - 2016-17
+Ranat Ghosh - 2016-17
+Anwesh Sinha Roy - 2016-17
+Ankit Lamba - 2017-18
+Abhishek Kumar - 2018-19
+Alan Aipe - 2018-19
+Raghu - 2018-19
+Uday Bora - 2018-19
+Vishal Solanki - 2018-19
+Vignesh Edithal - 2018-19
+Pralay Ramteke - 2018-19
+Hitesh Golcha - 2019-20
+Bora Raghu Ram Reddy - 2019-20
+Tarun Garg - 2019-20
+Raghav Jindal - 2019-20
+Shinku - 2019-20
+Abhishek Kumar - 2019-20
+Ayush Sharma - 2019-20
+Amit Priynkar - 2020-21
+Ankit Kumar - 2020-21
+Boppana Dhanvanth - 2020-21
+Shreyash Vilas Gedkar - 2020-21
+Rizwan Khan - 2020-21
+Vrushank V. Varma - 2020-21
+Umang Jain - 2020-21
+Vinnakota Sujeeth - 2020-21
+Suman Shekhar - 2020-21
+Naveen T - 2020-21
+Dhanush S.R. - 2020-21
+Mukuntha N.S. - 2020-21
+Rajeev Kumar - 2020-21
+Dinesh Gaur - 2020-21
+Biswas Tameesh - 2020-21
+M. Sahruday Reddy - 2020-21
+
+**Current Project Staff**
+1. Dr. Saroj Kumar Jha - Research Associate -  IIT Patna
+2. Dr. Anubhav Tripathi - Research Associate -  IIT Patna
+3. Soham Bhattacharjee - Senior Resaerch Fellow - IIT Patna
+
+**Sincere Note**
+I have been fortunate to have worked with excellent students and project staffs. Any omission of credits is purely due to oversight.
+
+
+
+
