@@ -32,10 +32,10 @@ horizontal: false
 1. AI and NLP for Financial Analytics, sponsored by Bancapp Automation Private Limited. (77 lakh) - Ongoing - (Role: PI)
 2. Conversational Agents with Negotiation and Influencing ability, Sponsored by Accenture, Value: 56 Lakhs ($ 67396.50)- Ongoing - (Role: PI).  
 3. Percuro-A Holistic Solution for Clinical Text Mining, Sponsored by Wipro Ltd, Value: INR 39 Lakhs ($53042.38) [only for IIT Patna] (Consortium partner: University of South Carolina, USA) (ongoing) - (Role: PI)
-4. Dynamic Knowledge Natural Language Generation, Sponsored by Samsung Research, Value: 18 Lacs ($24191) - with Prof. Pushpak Bhattacharyya, IIT Bombay. (ongoing) - (Role: PI)
-5. HELIOS - Hate, Hyperpartisan, and Hyperpluralism Elicitation and Observer System, Sponsored by Wipro Ltd, India, Value: INR 42 Lacs ($55229) [only for IIT Patna] - with Prof. Pushpak Bhattacharyya, IIT Bombay.(Consortium partners: UT Austin, USA; and IIIT Delhi, India) - Ongoing - (Role: PI)
+4. Dynamic Knowledge Natural Language Generation, Sponsored by Samsung Research, Value: 18 Lacs ($24191) (ongoing) - (Role: PI)
+5. HELIOS - Hate, Hyperpartisan, and Hyperpluralism Elicitation and Observer System, Sponsored by Wipro Ltd, India, Value: INR 42 Lacs ($55229) [only for IIT Patna].(Consortium partners: UT Austin, USA; and IIIT Delhi, India) - Ongoing - (Role: PI)
 6. Knowledge Grounded Conversational System, Sponsored by Accenture, India, Value: 2232375.00 ($30000) (completed)  
-7. Product Review and Conversation Machine Translation, Sponsored by Flipkart, India, Value: 36 Lacs ($28221.04) - with Prof. Pushpak Bhattacharyya, IIT Bombay and Dr. Sriparna Saha, IIT Patna. (ongoing) - (Role: PI)
+7. Product Review and Conversation Machine Translation, Sponsored by Flipkart, India, Value: 36 Lacs ($28221.04) (ongoing) - (Role: PI)
 8. ATL IIT AI Lab (QA, Dialogue Systems), Sponsored by Accenture Pvt. Limited, Value: Rs. 65 Lac ($ 90146.00 ) - with Prof. Pushpak Bhattacharyya, IIT Bombay and Dr. Sriparna Saha, IIT Patna. (Completed) 
 9. Centre of Excellence for Natural Language Processing-IITP, Sponsored by Elsevier, Value: Rs. 213 Lacs ($ 295403.00) (Completed) .
 10. R&D Projects, Shusrut: ezDI Research Lab on Health Informatics-IITP, Sponsored by ezDI, Value: Rs.145 Lacs ($ 201096.00) - with Prof. Pushpak Bhattacharyya, IIT Bombay.  (Completed) 
