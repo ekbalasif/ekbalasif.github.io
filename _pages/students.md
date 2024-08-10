@@ -21,8 +21,8 @@ horizontal: false
 
 **PhD Thesis Guided (submitted/degree awarded)**
 
-1. Gitanjali Kumari
-2. Divya Kumari
+1. Gitanjali Kumari (2024). Unveiling Multimodal Cues and Biases in Internet Memes
+2. Divya Kumari (2024). Enhancing Domain-Specific Knowledge Preservation in Low-resource Neural Machine Translation
 1. Mamta (2024). Advancing Sentiment Analysis: From Diverse Domains to Multilinguality and Robustness
 2. Prashant Kapil (2024). Unmasking Toxicity: Harnessing AI for Hate Speech Detection in Social Media Landscapes
 3. Komal Gupta (2024). Constructing and Leveraging Knowledge Graphs for NLP Tasks in Scientific Domain
