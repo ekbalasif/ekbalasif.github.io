@@ -6,19 +6,17 @@ nav: false
 nav_order: 2
 ---
 
-A). EMNLP Main Track
-1. Arpan Phukan, Manish Gupta, Asif Ekbal (2024). ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos. (with Manish, Microsoft).
-2. Sandeep Kumar, Mohit Sahu, Vardhan Gacche, Tirthankar Ghosal, Asif Ekbal. (2024). Quis custodiet ipsos custodes?' Who will watch the watchmen? On Detecting AI-generated peer-reviews.
-3. Kshitij Mishra, Manisha Burja, Asif Ekbal.. (2024)  ABLE: Personalized Disability Support with Politeness and Empathy Integration
-4. Mamta, Rishikant Chigrupaatii, Asif Ekbal (2024). BiasWipe: Mitigating Unintended Bias in Text Classifiers through Model Interpretability. 
-5. Gopendra Vikram Singh, Sai Vardhan Vemulapalli, Mauajama Firdaus, Asif Ekbal. (2024) Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework. 
-6. Gitanjali Kumari, Kirtan Jain, Asif Ekbal (2024). M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought.
+1. Arpan Phukan, Manish Gupta, Asif Ekbal (2024). ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos. (with Manish, Microsoft). EMNLP Main Track.
+2. Sandeep Kumar, Mohit Sahu, Vardhan Gacche, Tirthankar Ghosal, Asif Ekbal. (2024). Quis custodiet ipsos custodes?' Who will watch the watchmen? On Detecting AI-generated peer-reviews. EMNLP Main Track.
+3. Kshitij Mishra, Manisha Burja, Asif Ekbal.. (2024)  ABLE: Personalized Disability Support with Politeness and Empathy Integration. EMNLP Main Track.
+4. Mamta, Rishikant Chigrupaatii, Asif Ekbal (2024). BiasWipe: Mitigating Unintended Bias in Text Classifiers through Model Interpretability. EMNLP Main Track.
+5. Gopendra Vikram Singh, Sai Vardhan Vemulapalli, Mauajama Firdaus, Asif Ekbal. (2024) Deciphering Cognitive Distortions in Patient-Doctor Mental Health Conversations: A Multimodal LLM-Based Detection and Reasoning Framework. EMNLP Main Track.
+6. Gitanjali Kumari, Kirtan Jain, Asif Ekbal (2024). M3Hop-CoT: Misogynous Meme Identification with Multimodal Multi-hop Chain-of-Thought. EMNLP Main Track.
 
-B). EMNLP Findings: 
-1. Aizan Zafar, Kshitij Mishra, Asif Ekbal (2024) MedLogic-AQA: Enhancing Medicare Question Answering with Abstractive Models Focusing on Logical Structures.
-2. Priyanshu Priya, Desai Vishesh Yasheshbhai, Ratnesh Kumar Joshi, Roshni Ramnani, ANUTOSH MAITRA, Shubhashis Sengupta, Asif Ekbal (2024). TRIP NEGOTIATOR: A Travel Persona-aware Reinforced Dialogue Generation Model for Personalized Integrative Negotiation in Tourism (with Accenture).
-3. Dibyanayan Bandyopadhyay, Mohammed Hasanuzzaman, Asif Ekbal (2024) Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes.
-4. Anas Anwarul Haq Khan, Tanik Saikh, Arpan Phukan, Asif Ekbal. (2024) Hope `The Paragraph Guy' explains the rest : Introducing MeSum, the Meme Summarizer. 
+1. Aizan Zafar, Kshitij Mishra, Asif Ekbal (2024) MedLogic-AQA: Enhancing Medicare Question Answering with Abstractive Models Focusing on Logical Structures. EMNLP Findings.
+2. Priyanshu Priya, Desai Vishesh Yasheshbhai, Ratnesh Kumar Joshi, Roshni Ramnani, ANUTOSH MAITRA, Shubhashis Sengupta, Asif Ekbal (2024). TRIP NEGOTIATOR: A Travel Persona-aware Reinforced Dialogue Generation Model for Personalized Integrative Negotiation in Tourism (with Accenture). EMNLP Findings.
+3. Dibyanayan Bandyopadhyay, Mohammed Hasanuzzaman, Asif Ekbal (2024) Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes. EMNLP Findings.
+4. Anas Anwarul Haq Khan, Tanik Saikh, Arpan Phukan, Asif Ekbal. (2024) Hope `The Paragraph Guy' explains the rest : Introducing MeSum, the Meme Summarizer. EMNLP Findings.
 
 
 1. D. Bandyopadhyay, A. Ganguli, B. Gain and A. Ekbal (2024). SEMANTIFY: Unveiling Memes with Robust Interpretability beyond Input Attribution. In Proc of IJCAI 2024 (accepted) (Core-A*, h5-index: 133).
