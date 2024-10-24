@@ -18,6 +18,11 @@ nav_order: 2
 3. Dibyanayan Bandyopadhyay, Mohammed Hasanuzzaman, Asif Ekbal (2024) Seeing Through VisualBERT: A Causal Adventure on Memetic Landscapes. EMNLP Findings.
 4. Anas Anwarul Haq Khan, Tanik Saikh, Arpan Phukan, Asif Ekbal. (2024) Hope `The Paragraph Guy' explains the rest : Introducing MeSum, the Meme Summarizer. EMNLP Findings.
 
+1. R. Appicharla, B. Gain, S. Pal, A. Ekbal and P. Bhattacharyya (2024). A Case Study on Context-Aware Neural Machine Translation with Multi-Task Learning. In the 25th Annual Conference of The European Association for Machine Translation
+ 
+3. P. Priya, G.V  singh, M. Firdaus, J. Agrawal, A. Ekbal (2024). On the Way to Gentle AI Counselor: Politeness Cause Elicitation and Intensity Tagging in Code-mixed Hinglish Conversations for Social Good. In NAACL (Findings)
+
+4. Mamta, Gopendra Vikam Singh, Deepak Kori, Asif Ekbal (2024). Aspect-Based Multimodal Mining: Unveiling Sentiments, Complaints, and Beyond in User-Generated Content, In ACM Multimedia-2024
 
 1. D. Bandyopadhyay, A. Ganguli, B. Gain and A. Ekbal (2024). SEMANTIFY: Unveiling Memes with Robust Interpretability beyond Input Attribution. In Proc of IJCAI 2024 (accepted) (Core-A*, h5-index: 133).
 
