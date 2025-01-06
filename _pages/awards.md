@@ -23,3 +23,4 @@ horizontal: false
 * Most downloadable article, Data and Knowledge Engineering Journal, Elsevier 
 * AFNLP Nagao Fund Award for attending ACL 2006 (5 scholars, working on Asian Natural Language Processing are given this award)
 * Travel support from AFNLP, Microsoft, NLPAI etc.
+* Appointed as the ACM Distinguished Speaker
