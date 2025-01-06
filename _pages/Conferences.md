@@ -5,6 +5,11 @@ title: Conferences
 nav: false
 nav_order: 2
 ---
+1.  A. Zafar, K. Mishra, A. Ekbal (2025). MedEx: Enhancing Medical Question-Answering with First-Order Logic based Reasoning and Knowledge Injection. In COLING 2025
+
+2.  B.Gain, D. Bandyopadhyay, S. Mukherjee, A. Sahoo, S. Dana, P. Kodeswaran, S. Sen, A. Ekbal, D. Garg (2025). Transforming Code Understanding: Clustering-Based Retrieval for Improved Summarization in Domain-Specific Languages. In COLING 2025 (Industry Track)
+
+3.  Priyanshu Priya, Rishikant Chigrupaatii, Mauajama Firdaus, Asif Ekbal.GENTEEL-NEGOTIATOR: LLM-Enhanced Mixture-of-Expert-based Reinforcement Learning Approach for Polite Negotiation Dialogue. Accepted for publication in the Proceedings of the AAAI 2025.
 
 1. Arpan Phukan, Manish Gupta, Asif Ekbal (2024). ECIS-VQG: Generation of Entity-centric Information-seeking Questions from Videos. (with Manish, Microsoft). EMNLP Main Track.
    
