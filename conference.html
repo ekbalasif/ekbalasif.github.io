@@ -120,25 +120,6 @@
       opacity: .5;
     }
 
-    .pub-toggle-btns {
-      display: flex;
-      gap: 8px;
-    }
-
-    .pub-toggle-btns button {
-      border: 1px solid var(--pub-border);
-      background: #fff;
-      border-radius: 8px;
-      padding: 7px 14px;
-      font-size: .85rem;
-      cursor: pointer;
-      transition: background .15s, color .15s;
-    }
-
-    .pub-toggle-btns button:hover {
-      background: var(--pub-bg-soft);
-    }
-
     .year-block {
       border: 1px solid var(--pub-border);
       border-radius: 12px;
@@ -150,14 +131,11 @@
     .year-header {
       width: 100%;
       display: flex;
-      align-items: center;
+      align-items: baseline;
       gap: 14px;
       background: var(--pub-bg-soft);
-      border: none;
       padding: 14px 20px;
       font-family: var(--heading-font, inherit);
-      cursor: pointer;
-      text-align: left;
     }
 
     .year-header .year-label {
@@ -171,14 +149,6 @@
       font-size: .82rem;
       opacity: .6;
       flex: 1;
-    }
-
-    .year-chevron {
-      transition: transform .25s ease;
-    }
-
-    .year-header[aria-expanded="true"] .year-chevron {
-      transform: rotate(180deg);
     }
 
     ul.year-list {
@@ -334,7 +304,7 @@
 
   <main class="main">
 
-    <section id="about" class="about-2 section light-background">
+     <section id="about" class="about-2 section light-background">
 
       <div class="container">
         <div class="content" style="padding: 50px;">
@@ -342,9 +312,7 @@
              <p><h2 class="content-title text-start">
                  Conference Publications on NLP/Information Extraction/Text Mining
                 </h2>
-                <hr style="border-radius:4px;">
-
-         <!--  <div class="pub-stats">
+          <!-- <div class="pub-stats">
             <div class="pub-stat"><span class="num">170</span><span class="lbl">Papers</span></div>
             <div class="pub-stat"><span class="num">2006-2026</span><span class="lbl">Years</span></div>
             <div class="pub-stat"><span class="num">16</span><span class="lbl">Venue-years</span></div>
@@ -356,21 +324,16 @@
             <i class="bi bi-search"></i>
             <input type="text" id="pubSearchInput" placeholder="Search by title, author, or venue&hellip;">
           </div>
-          <div class="pub-toggle-btns">
-            <button type="button" id="expandAllBtn">Expand all</button>
-            <button type="button" id="collapseAllBtn">Collapse all</button>
-          </div>
         </div>
 
         <div id="pubList">
 
       <div class="year-block" data-year="2026">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2026" aria-expanded="false" aria-controls="year-2026">
+        <div class="year-header">
           <span class="year-label">2026</span>
           <span class="year-count">14 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2026">
+        </div>
+        <ul class="year-list" id="year-2026">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -516,12 +479,11 @@
       </div>
 
       <div class="year-block" data-year="2025">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2025" aria-expanded="false" aria-controls="year-2025">
+        <div class="year-header">
           <span class="year-label">2025</span>
           <span class="year-count">8 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2025">
+        </div>
+        <ul class="year-list" id="year-2025">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -607,12 +569,11 @@
       </div>
 
       <div class="year-block" data-year="2024">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2024" aria-expanded="false" aria-controls="year-2024">
+        <div class="year-header">
           <span class="year-label">2024</span>
           <span class="year-count">21 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2024">
+        </div>
+        <ul class="year-list" id="year-2024">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -828,12 +789,11 @@
       </div>
 
       <div class="year-block" data-year="2023">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2023" aria-expanded="false" aria-controls="year-2023">
+        <div class="year-header">
           <span class="year-label">2023</span>
           <span class="year-count">23 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2023">
+        </div>
+        <ul class="year-list" id="year-2023">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -1069,12 +1029,11 @@
       </div>
 
       <div class="year-block" data-year="2022">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2022" aria-expanded="false" aria-controls="year-2022">
+        <div class="year-header">
           <span class="year-label">2022</span>
           <span class="year-count">24 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2022">
+        </div>
+        <ul class="year-list" id="year-2022">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -1320,12 +1279,11 @@
       </div>
 
       <div class="year-block" data-year="2021">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2021" aria-expanded="false" aria-controls="year-2021">
+        <div class="year-header">
           <span class="year-label">2021</span>
           <span class="year-count">23 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2021">
+        </div>
+        <ul class="year-list" id="year-2021">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -1561,12 +1519,11 @@
       </div>
 
       <div class="year-block" data-year="2020">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2020" aria-expanded="false" aria-controls="year-2020">
+        <div class="year-header">
           <span class="year-label">2020</span>
           <span class="year-count">15 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2020">
+        </div>
+        <ul class="year-list" id="year-2020">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -1722,12 +1679,11 @@
       </div>
 
       <div class="year-block" data-year="2019">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2019" aria-expanded="false" aria-controls="year-2019">
+        <div class="year-header">
           <span class="year-label">2019</span>
           <span class="year-count">14 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2019">
+        </div>
+        <ul class="year-list" id="year-2019">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -1873,12 +1829,11 @@
       </div>
 
       <div class="year-block" data-year="2018">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2018" aria-expanded="false" aria-controls="year-2018">
+        <div class="year-header">
           <span class="year-label">2018</span>
           <span class="year-count">15 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2018">
+        </div>
+        <ul class="year-list" id="year-2018">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2034,12 +1989,11 @@
       </div>
 
       <div class="year-block" data-year="2017">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2017" aria-expanded="false" aria-controls="year-2017">
+        <div class="year-header">
           <span class="year-label">2017</span>
           <span class="year-count">3 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2017">
+        </div>
+        <ul class="year-list" id="year-2017">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2075,12 +2029,11 @@
       </div>
 
       <div class="year-block" data-year="2016">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2016" aria-expanded="false" aria-controls="year-2016">
+        <div class="year-header">
           <span class="year-label">2016</span>
           <span class="year-count">4 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2016">
+        </div>
+        <ul class="year-list" id="year-2016">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2126,12 +2079,11 @@
       </div>
 
       <div class="year-block" data-year="2012">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2012" aria-expanded="false" aria-controls="year-2012">
+        <div class="year-header">
           <span class="year-label">2012</span>
           <span class="year-count">1 paper</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2012">
+        </div>
+        <ul class="year-list" id="year-2012">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2147,12 +2099,11 @@
       </div>
 
       <div class="year-block" data-year="2011">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2011" aria-expanded="false" aria-controls="year-2011">
+        <div class="year-header">
           <span class="year-label">2011</span>
           <span class="year-count">2 papers</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2011">
+        </div>
+        <ul class="year-list" id="year-2011">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2178,12 +2129,11 @@
       </div>
 
       <div class="year-block" data-year="2010">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2010" aria-expanded="false" aria-controls="year-2010">
+        <div class="year-header">
           <span class="year-label">2010</span>
           <span class="year-count">1 paper</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2010">
+        </div>
+        <ul class="year-list" id="year-2010">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2199,12 +2149,11 @@
       </div>
 
       <div class="year-block" data-year="2008">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2008" aria-expanded="false" aria-controls="year-2008">
+        <div class="year-header">
           <span class="year-label">2008</span>
           <span class="year-count">1 paper</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2008">
+        </div>
+        <ul class="year-list" id="year-2008">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2220,12 +2169,11 @@
       </div>
 
       <div class="year-block" data-year="2006">
-        <button class="year-header" type="button" data-bs-toggle="collapse" data-bs-target="#year-2006" aria-expanded="false" aria-controls="year-2006">
+        <div class="year-header">
           <span class="year-label">2006</span>
           <span class="year-count">1 paper</span>
-          <i class="bi bi-chevron-down year-chevron"></i>
-        </button>
-        <ul class="collapse year-list" id="year-2006">
+        </div>
+        <ul class="year-list" id="year-2006">
           
           <li class="paper-item">
             <div class="paper-main">
@@ -2242,7 +2190,7 @@
         </div>
         <p class="pub-no-results" id="pubNoResults">No papers match your search.</p>
 
-        
+       
 
       </div>
     </section>
@@ -2311,28 +2259,6 @@
       var input = document.getElementById('pubSearchInput');
       var yearBlocks = Array.prototype.slice.call(document.querySelectorAll('.year-block'));
       var noResults = document.getElementById('pubNoResults');
-      var expandAllBtn = document.getElementById('expandAllBtn');
-      var collapseAllBtn = document.getElementById('collapseAllBtn');
-
-      function setCollapse(block, show) {
-        var list = block.querySelector('.year-list');
-        var btn = block.querySelector('.year-header');
-        if (!list) return;
-        if (show) {
-          list.classList.add('show');
-          btn.setAttribute('aria-expanded', 'true');
-        } else {
-          list.classList.remove('show');
-          btn.setAttribute('aria-expanded', 'false');
-        }
-      }
-
-      expandAllBtn.addEventListener('click', function () {
-        yearBlocks.forEach(function (b) { setCollapse(b, true); });
-      });
-      collapseAllBtn.addEventListener('click', function () {
-        yearBlocks.forEach(function (b) { setCollapse(b, false); });
-      });
 
       input.addEventListener('input', function () {
         var q = input.value.trim().toLowerCase();
@@ -2350,10 +2276,7 @@
           });
 
           block.classList.toggle('pub-hidden', !blockHasMatch);
-          if (blockHasMatch) {
-            anyVisible = true;
-            if (q !== '') setCollapse(block, true);
-          }
+          if (blockHasMatch) anyVisible = true;
         });
 
         noResults.style.display = anyVisible ? 'none' : 'block';
