@@ -124,8 +124,6 @@
 
 
 
-
-
     <!-- About Section -->
     <section id="home" class="about section" >
 
@@ -185,7 +183,29 @@
            <div class="col-lg-7 order-lg-1">
 
        
+<style>
+.new-badge {
+  display: inline-block;
+  background: #e53935;
+  color: #fff;
+  font-size: 0.7em;
+  font-weight: bold;
+  padding: 2px 6px;
+  margin-right: 6px;
+  border-radius: 4px;
+  vertical-align: middle;
+  animation: blink 1s steps(2, start) infinite;
+}
 
+@keyframes blink {
+  to { visibility: hidden; }
+}
+
+/* Optional: respect users who prefer no motion */
+@media (prefers-reduced-motion: reduce) {
+  .new-badge { animation: none; }
+}
+</style>
              <!-- ================= FEATURED NEWS SECTION ================= -->
 <div class="featured-news-box">
     
@@ -193,9 +213,8 @@
 
    
   <ul>
-    <li> I am happy to serve as Senior Area Chair for Machine Translation at <b>EMNLP 2026</b> and Area Chair at <b>NeurIPS 2026</b>. I look forward to serving as Area Chair at <b>AAAI 2027</b> and <b>ICML 2027</b>, Demo Track Chair at <b>NAACL 2027</b>, and Senior Area Chair at <b>ACL 2027</b>.
-</p></li>
-    <li>Excited to share that <strong>another papers</strong> has been accepted at <strong>TACL 2026</strong>.</li><br>
+   <span class="new-badge">NEW</span> <li>I am happy to serve as Senior Area Chair for Machine Translation at <b>EMNLP 2026</b> and Area Chair at <b>NeurIPS 2026</b>. I look forward to serving as Area Chair at <b>AAAI 2027</b> and <b>ICML 2027</b>, Demo Track Chair at <b>NAACL 2027</b>, and Senior Area Chair at <b>ACL 2027</b>.</li>
+   <li> Excited to share that <strong>another paper</strong> has been accepted at <strong>TACL 2026</strong>.</li><hr>
     <li> The COIL-D initiative has released a new paper on an Indic-centric parallel corpus and benchmark for machine translation across Indian languages.</br>
   
         <b><i>COILD: An Indic-Centric Parallel Corpus and Benchmark for Machine Translation Across Indian Languages</i></b><br>
